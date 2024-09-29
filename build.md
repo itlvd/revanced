@@ -1,5 +1,5 @@
-Reddit: 2024.17.0  
 YouTube: 19.16.39  
+Reddit: 2024.17.0  
 Twitch: 16.9.1  
 Tiktok: 36.5.4  
 
