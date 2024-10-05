@@ -1,5 +1,5 @@
-Twitter: 10.48.0-release.0  
 Reddit: 2024.17.0  
+Twitter: 10.48.0-release.0  
 YouTube: 19.16.39  
 Twitch: 16.9.1  
 
